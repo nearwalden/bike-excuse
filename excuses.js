@@ -49,7 +49,7 @@ function Excuse() {
           'I forgot my prescription glasses.',
           'I have saddlesores.',
           'I have blisters.',
-          'My gender unit is bleeding.',
+          'My gender unit hurts.',
           'I have a sunburn.',
           'I have a windburn.',
           'I have a rash.',
