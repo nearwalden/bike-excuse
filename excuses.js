@@ -73,8 +73,7 @@ function Excuse() {
   // var myHomework = ['homework', 'project', 'essay', 'film project', 'visualization', 'infographic', 'pre-writing', 'term paper', 'lab report', 'reading log', 'summary', 'article', 'flash cards', 'study guide', 'textbook', 'workbook', 'reading book', 'diorama', 'poster', 'dreams', 'laptop', 'computer', 'tablet', 'momentum', 'report', 'slideshow', 'slide deck', 'presentation', 'worksheet', 'handout', 'notes', 'portfolio', 'blog post', 'comment'];
 
   function pickRandom(wordArray) {
-    var lengthOfArray = wordArray.length - 1;
-    var randomNumber = Math.round(Math.random() * lengthOfArray);
+    var randomNumber = Math.round(Math.random() * wordArray.length);
     return wordArray[randomNumber];
   }
 

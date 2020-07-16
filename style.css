@@ -1,11 +1,11 @@
 body {
-  background-image: url('tired cyclist.jpg');
+  background-image: url('tired cyclist-tall.jpg');
   background-size: cover;
   background-repeat: none;
 }
 
 h1 {
-  font-family:'Russo One', sans-serif;
+  font-family:'Merriweather', serif;
   font-size: 64px;
   margin-left: 25px;
   color: #4e4e55;
