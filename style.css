@@ -1,5 +1,5 @@
 body {
-  background-image: url('tired cyclist-tall.jpg');
+  background-image: url('tired cyclist-tall-logo.jpg');
   background-size: cover;
   background-repeat: none;
 }
@@ -24,7 +24,7 @@ button {
   background-color: #ddd;
   border: 3px solid #555;
   height: 60px;
-  width: 250px;
+  width: 300px;
 }
 
 button:hover{
@@ -40,7 +40,7 @@ a{
   /* top: 30px; */ 
   left: 25px;
   font-family: 'Amatic SC', monospace;
-  font-size: 72px;
+  font-size: 48px;
   color: #009;
 }
 
