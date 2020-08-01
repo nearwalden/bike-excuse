@@ -4,7 +4,7 @@ body {
   background-repeat: none;
 }
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 900px) {
   button {
     margin-left: 25px;
     -moz-border-radius: 5px;
@@ -18,7 +18,7 @@ body {
     background-color: #ddd;
     border: 5px solid #555;
     height: 70px;
-    width: 475px;
+    width: 425px;
   }
 
   button:hover{
@@ -40,7 +40,7 @@ body {
 
 }
 
-@media all and (min-width:600px) {
+@media all and (min-width:900px) {
   button {
     margin-left: 25px;
     -moz-border-radius: 5px;
